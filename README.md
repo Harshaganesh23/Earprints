@@ -1,4 +1,4 @@
-<img src="readmefiles/Creative Studio Name LinkedIn Article Cover.png">
+<img src="readmefiles/Creative Studio Name LinkedIn Article Cover Image.png">
 # Ear-Biometrics
 
 Have you ever thought about the uniqueness of your ears? 
