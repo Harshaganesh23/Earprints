@@ -1,4 +1,4 @@
-![Logo](readmefiles/Creative Studio Name LinkedIn Article Cover.png)
+<img src="readmefiles/Creative Studio Name LinkedIn Article Cover.png">
 # Ear-Biometrics
 
 Have you ever thought about the uniqueness of your ears? 
@@ -24,7 +24,7 @@ To overcome the impact of the pandemic, EAR is the best biometrics alternative b
 
 Siamese Neural Network is a neural network architecture that consists of two identical sub-networks that share weights. It is commonly used for comparing or matching two inputs.
 
-<img src="readmefiles/siamese.png">
+<img src="readmefiles/siamese .png">
 
 ## Training Set with Tripet Loss
 
@@ -70,7 +70,8 @@ The IIT Delhi ear image database consists of the ear image database collected fr
     cap.release()
     cv2.destroyAllWindows()    
 ```
-## Documentation
+## Research Paper Work
+For a detailed technical explanation of the ear biometrics algorithms used in this project, you can refer to our [PDF Documentation](readmefiles\Earbiometrics Research Paper.pdf)
 
 ## Contribution
 
